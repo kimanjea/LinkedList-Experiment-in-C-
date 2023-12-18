@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LinkedList-Experiment-in-C-")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+efb93ccdce29a5b8e9bbea8146d992bdda903576")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+059ed100a8a9a13b11c34c46904748cb3aa3a2b0")]
 [assembly: System.Reflection.AssemblyProductAttribute("LinkedList-Experiment-in-C-")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LinkedList-Experiment-in-C-")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
